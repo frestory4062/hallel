@@ -1,0 +1,48 @@
+{
+  "_comment": "URLs ending in sync save to SQLite.",
+  "resources": {
+    "languages": {
+      "urls": {
+        "default": ["/api/languages_sync.json"]
+      }
+    },
+    "songs": {
+      "urls": {
+        "te": ["/api/songs/te/manifest.json"],
+        "en": ["/api/songs/en/manifest.json"]
+      }
+    },
+    "verses": {
+      "urls": {
+        "1": ["/api/verses/1/manifest.json"]
+      }
+    },
+    "dailyVerse": {
+      "urls": {
+        "te": ["/verses_te_sync"],
+        "en": ["/verses_en"]
+      }
+    },
+    "stories": {
+      "urls": {
+        "te": ["/stories_te"],
+        "en": ["/stories_en"]
+      }
+    },
+    "sponsored": {
+      "urls": {
+        "default": ["/spnsoredImages"]
+      }
+    },
+    "announcement": {
+      "urls": {
+        "default": ["/announcement"]
+      }
+    },
+    "bibles": {
+      "urls": {
+        "default": ["/api/bibles/translations1.json"]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "language": "verses",
+  "totalItems": 1294,
+  "batchSize": 500,
+  "totalFiles": 3,
+  "generatedAt": "2026-07-30T01:44:21.0298544",
+  "files": [
+    {
+      "name": "verses1_sync.json",
+      "version": 3
+    },
+    {
+      "name": "verses2.json",
+      "version": 1
+    },
+    {
+      "name": "verses3.json",
+      "version": 1
+    }
+  ]
+}

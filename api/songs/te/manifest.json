@@ -1,0 +1,20 @@
+{
+  "language" : "te",
+  "totalItems" : 1756,
+  "batchSize" : 500,
+  "totalFiles" : 4,
+  "generatedAt" : "2026-07-30T15:46:07.9539918",
+  "files" : [ {
+    "name" : "te_dummy_sync.json",
+    "version" : 2
+  }, {
+    "name" : "te_songs1_sync.json",
+    "version" : 1
+  }, {
+    "name" : "te_songs3.json",
+    "version" : 1
+  }, {
+    "name" : "te_songs4.json",
+    "version" : 1
+  } ]
+}

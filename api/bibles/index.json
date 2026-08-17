@@ -1,0 +1,14 @@
+{
+  "language" : "translations",
+  "totalItems" : 1,
+  "batchSize" : 500,
+  "totalFiles" : 1,
+  "generatedAt" : "2026-07-30T01:44:09.0790737",
+  "files" : [ {
+    "name" : "translations1.json",
+    "version" : 1
+  }, {
+    "name" : "TEL-BSI.json",
+    "version" : 1
+  } ]
+}

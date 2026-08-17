@@ -1,0 +1,30 @@
+{
+  "translations": [
+    {
+      "code": "KJV",
+      "name": "King James Version",
+      "language": "English",
+      "languageCode": "en",
+      "description": "The classic 1611 English translation, widely used in Protestant churches.",
+      "downloadUrl": "/api/bibles/ENGLISH_HOLY_BIBLE_KJV.json",
+      "fileSize": "4.2",
+      "totalVerses": 31102,
+      "version": "1769",
+      "langDefault": "1",
+      "bibleType": 1
+    },
+    {
+      "code": "TEL-BSI",
+      "name": "తెలుగు బైబిల్",
+      "language": "తెలుగు",
+      "languageCode": "te",
+      "description": "Bible Society of India Telugu translation.",
+      "downloadUrl": "http://192.168.1.4:80/api/bibles/TEL_BSI.json",
+      "fileSize": "3.8",
+      "totalVerses": 31102,
+      "version": "2017",
+      "langDefault": "1",
+      "bibleType": 1
+    }
+  ]
+}
