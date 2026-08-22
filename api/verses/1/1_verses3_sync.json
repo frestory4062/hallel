@@ -1,0 +1,2001 @@
+[ {
+  "id" : 878,
+  "bibleType" : 1,
+  "book" : 33,
+  "chapter" : 7,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 883,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 66,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 887,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 113,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 890,
+  "bibleType" : 1,
+  "book" : 44,
+  "chapter" : 3,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 891,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 32,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 893,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 3,
+  "verse" : 19,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 895,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 3,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 899,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 84,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 902,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 13,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 903,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 12,
+  "verse" : 29,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 904,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 12,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 909,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 51,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 912,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 3,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 914,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 5,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 917,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 1,
+  "verse" : 27,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 920,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 147,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 921,
+  "bibleType" : 1,
+  "book" : 18,
+  "chapter" : 36,
+  "verse" : 26,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 929,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 6,
+  "verse" : 37,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 944,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 15,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 947,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 4,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 949,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 13,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 950,
+  "bibleType" : 1,
+  "book" : 60,
+  "chapter" : 2,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 953,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 71,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 955,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 147,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 956,
+  "bibleType" : 1,
+  "book" : 27,
+  "chapter" : 6,
+  "verse" : 22,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 957,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 7,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 959,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 1,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 960,
+  "bibleType" : 1,
+  "book" : 60,
+  "chapter" : 2,
+  "verse" : 23,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 965,
+  "bibleType" : 1,
+  "book" : 6,
+  "chapter" : 1,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 966,
+  "bibleType" : 1,
+  "book" : 45,
+  "chapter" : 15,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 970,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 11,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 971,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 21,
+  "verse" : 18,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 972,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 21,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 976,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 2,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 978,
+  "bibleType" : 1,
+  "book" : 49,
+  "chapter" : 5,
+  "verse" : 27,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 985,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 71,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 987,
+  "bibleType" : 1,
+  "book" : 20,
+  "chapter" : 18,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 989,
+  "bibleType" : 1,
+  "book" : 47,
+  "chapter" : 11,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 991,
+  "bibleType" : 1,
+  "book" : 10,
+  "chapter" : 6,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 992,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 6,
+  "verse" : 20,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 993,
+  "bibleType" : 1,
+  "book" : 21,
+  "chapter" : 9,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 997,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 89,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1000,
+  "bibleType" : 1,
+  "book" : 13,
+  "chapter" : 29,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1001,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 8,
+  "verse" : 20,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1002,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 21,
+  "verse" : 37,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1003,
+  "bibleType" : 1,
+  "book" : 6,
+  "chapter" : 24,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1004,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 4,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1005,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 9,
+  "verse" : 28,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1006,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 18,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1015,
+  "bibleType" : 1,
+  "book" : 29,
+  "chapter" : 2,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1016,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 11,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1021,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 50,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1024,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 1,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1028,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 5,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1029,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 53,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1041,
+  "bibleType" : 1,
+  "book" : 21,
+  "chapter" : 3,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1051,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 121,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1055,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 15,
+  "verse" : 55,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1056,
+  "bibleType" : 1,
+  "book" : 45,
+  "chapter" : 5,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1064,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 23,
+  "verse" : 37,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1065,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 4,
+  "verse" : 12,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1068,
+  "bibleType" : 1,
+  "book" : 45,
+  "chapter" : 9,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1072,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 14,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1073,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 90,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1076,
+  "bibleType" : 1,
+  "book" : 38,
+  "chapter" : 13,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1078,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 3,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1079,
+  "bibleType" : 1,
+  "book" : 29,
+  "chapter" : 2,
+  "verse" : 23,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1084,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 28,
+  "verse" : 19,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1089,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 143,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1093,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 100,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1094,
+  "bibleType" : 1,
+  "book" : 13,
+  "chapter" : 29,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1097,
+  "bibleType" : 1,
+  "book" : 49,
+  "chapter" : 2,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1101,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 62,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1102,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 9,
+  "verse" : 22,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1105,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 107,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1107,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 25,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1111,
+  "bibleType" : 1,
+  "book" : 60,
+  "chapter" : 1,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1116,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 1,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1118,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 32,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1120,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 2,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1121,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 11,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1123,
+  "bibleType" : 1,
+  "book" : 20,
+  "chapter" : 3,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1124,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 26,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1125,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 51,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1129,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 148,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1130,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 148,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1132,
+  "bibleType" : 1,
+  "book" : 20,
+  "chapter" : 23,
+  "verse" : 22,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1133,
+  "bibleType" : 1,
+  "book" : 20,
+  "chapter" : 1,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1134,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 105,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1142,
+  "bibleType" : 1,
+  "book" : 14,
+  "chapter" : 7,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1144,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 34,
+  "verse" : 22,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1146,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 93,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1148,
+  "bibleType" : 1,
+  "book" : 11,
+  "chapter" : 18,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1150,
+  "bibleType" : 1,
+  "book" : 59,
+  "chapter" : 1,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1157,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 7,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1158,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 7,
+  "verse" : 18,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1159,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 7,
+  "verse" : 19,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1160,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 15,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1161,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 22,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1162,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 18,
+  "verse" : 20,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1166,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 15,
+  "verse" : 25,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1174,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 34,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1176,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 2,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1178,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 2,
+  "verse" : 18,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1189,
+  "bibleType" : 1,
+  "book" : 60,
+  "chapter" : 5,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1194,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 84,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1197,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 65,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1198,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 6,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1205,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 21,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1206,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 7,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1209,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 18,
+  "verse" : 28,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1210,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 55,
+  "verse" : 22,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1221,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 1,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1223,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 18,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1224,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 22,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1227,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 107,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1228,
+  "bibleType" : 1,
+  "book" : 59,
+  "chapter" : 5,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1231,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 4,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1232,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 22,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1233,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 19,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1239,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 45,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1240,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 33,
+  "verse" : 17,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1249,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 150,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1252,
+  "bibleType" : 1,
+  "book" : 50,
+  "chapter" : 4,
+  "verse" : 12,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1257,
+  "bibleType" : 1,
+  "book" : 20,
+  "chapter" : 19,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1260,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 28,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1262,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 22,
+  "verse" : 20,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1266,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 5,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1271,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 14,
+  "verse" : 18,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1272,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 142,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1275,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 66,
+  "verse" : 19,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1279,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 7,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1282,
+  "bibleType" : 1,
+  "book" : 21,
+  "chapter" : 12,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1284,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 41,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1285,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 37,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1286,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 73,
+  "verse" : 23,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1288,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 13,
+  "verse" : 44,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1289,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 5,
+  "verse" : 12,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1290,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 10,
+  "verse" : 31,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1291,
+  "bibleType" : 1,
+  "book" : 51,
+  "chapter" : 3,
+  "verse" : 17,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1303,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 45,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1304,
+  "bibleType" : 1,
+  "book" : 54,
+  "chapter" : 1,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1316,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 15,
+  "verse" : 32,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1317,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 9,
+  "verse" : 25,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1321,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 13,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1326,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 23,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1331,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 30,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1338,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 1,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1340,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 44,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1341,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 21,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1342,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 21,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1343,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 5,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1344,
+  "bibleType" : 1,
+  "book" : 45,
+  "chapter" : 8,
+  "verse" : 30,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1345,
+  "bibleType" : 1,
+  "book" : 24,
+  "chapter" : 1,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1347,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 4,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1353,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 11,
+  "verse" : 25,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1354,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 119,
+  "verse" : 18,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1355,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 50,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1373,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 145,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1375,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 1,
+  "verse" : 35,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1377,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 107,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1378,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 6,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1380,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 7,
+  "verse" : 26,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1385,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 21,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1387,
+  "bibleType" : 1,
+  "book" : 55,
+  "chapter" : 4,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1392,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 2,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1394,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 55,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1396,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 9,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1408,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 24,
+  "verse" : 35,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1409,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 86,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1413,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 148,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1421,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 4,
+  "verse" : 19,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1422,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 19,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1423,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 96,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1425,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 60,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1430,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 122,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1438,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 33,
+  "verse" : 12,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1444,
+  "bibleType" : 1,
+  "book" : 24,
+  "chapter" : 6,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1450,
+  "bibleType" : 1,
+  "book" : 60,
+  "chapter" : 2,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1453,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 26,
+  "verse" : 39,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1454,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 4,
+  "verse" : 35,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1455,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 3,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1462,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 25,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1464,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 10,
+  "verse" : 39,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1465,
+  "bibleType" : 1,
+  "book" : 61,
+  "chapter" : 2,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1466,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 10,
+  "verse" : 26,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1467,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 2,
+  "verse" : 5,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1480,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 12,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1482,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 91,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1490,
+  "bibleType" : 1,
+  "book" : 50,
+  "chapter" : 3,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1493,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 93,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1499,
+  "bibleType" : 1,
+  "book" : 9,
+  "chapter" : 3,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1507,
+  "bibleType" : 1,
+  "book" : 2,
+  "chapter" : 3,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1509,
+  "bibleType" : 1,
+  "book" : 45,
+  "chapter" : 10,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1511,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 55,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1513,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 13,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1514,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 39,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1521,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 111,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1522,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 96,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1523,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 65,
+  "verse" : 11,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1530,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 1,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1539,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 107,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1540,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 43,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1541,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 78,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1543,
+  "bibleType" : 1,
+  "book" : 47,
+  "chapter" : 5,
+  "verse" : 15,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1544,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 13,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1545,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 13,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1547,
+  "bibleType" : 1,
+  "book" : 49,
+  "chapter" : 6,
+  "verse" : 12,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1548,
+  "bibleType" : 1,
+  "book" : 55,
+  "chapter" : 4,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1549,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 9,
+  "verse" : 23,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1551,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 15,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1553,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 48,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1555,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 145,
+  "verse" : 7,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1564,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 96,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1570,
+  "bibleType" : 1,
+  "book" : 44,
+  "chapter" : 16,
+  "verse" : 26,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1572,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 92,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1575,
+  "bibleType" : 1,
+  "book" : 61,
+  "chapter" : 3,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1577,
+  "bibleType" : 1,
+  "book" : 20,
+  "chapter" : 15,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1583,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 86,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1585,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 106,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1589,
+  "bibleType" : 1,
+  "book" : 58,
+  "chapter" : 2,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1591,
+  "bibleType" : 1,
+  "book" : 66,
+  "chapter" : 22,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1592,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 2,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1595,
+  "bibleType" : 1,
+  "book" : 39,
+  "chapter" : 3,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1597,
+  "bibleType" : 1,
+  "book" : 41,
+  "chapter" : 2,
+  "verse" : 17,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1598,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 3,
+  "verse" : 16,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1607,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 86,
+  "verse" : 1,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1616,
+  "bibleType" : 1,
+  "book" : 13,
+  "chapter" : 29,
+  "verse" : 13,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1626,
+  "bibleType" : 1,
+  "book" : 44,
+  "chapter" : 17,
+  "verse" : 30,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1630,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 119,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1631,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 11,
+  "verse" : 24,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1632,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 11,
+  "verse" : 25,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1635,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 17,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1637,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 27,
+  "verse" : 8,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1640,
+  "bibleType" : 1,
+  "book" : 53,
+  "chapter" : 3,
+  "verse" : 3,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1648,
+  "bibleType" : 1,
+  "book" : 47,
+  "chapter" : 4,
+  "verse" : 17,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1652,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 19,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1654,
+  "bibleType" : 1,
+  "book" : 42,
+  "chapter" : 19,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1659,
+  "bibleType" : 1,
+  "book" : 1,
+  "chapter" : 22,
+  "verse" : 2,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1665,
+  "bibleType" : 1,
+  "book" : 21,
+  "chapter" : 4,
+  "verse" : 9,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1672,
+  "bibleType" : 1,
+  "book" : 40,
+  "chapter" : 27,
+  "verse" : 46,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1676,
+  "bibleType" : 1,
+  "book" : 47,
+  "chapter" : 1,
+  "verse" : 4,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1678,
+  "bibleType" : 1,
+  "book" : 46,
+  "chapter" : 15,
+  "verse" : 31,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1684,
+  "bibleType" : 1,
+  "book" : 49,
+  "chapter" : 2,
+  "verse" : 20,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1685,
+  "bibleType" : 1,
+  "book" : 51,
+  "chapter" : 1,
+  "verse" : 17,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1688,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 34,
+  "verse" : 19,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1691,
+  "bibleType" : 1,
+  "book" : 62,
+  "chapter" : 2,
+  "verse" : 14,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1697,
+  "bibleType" : 1,
+  "book" : 23,
+  "chapter" : 30,
+  "verse" : 21,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1703,
+  "bibleType" : 1,
+  "book" : 43,
+  "chapter" : 10,
+  "verse" : 10,
+  "date" : null,
+  "version" : 1
+}, {
+  "id" : 1710,
+  "bibleType" : 1,
+  "book" : 19,
+  "chapter" : 118,
+  "verse" : 6,
+  "date" : null,
+  "version" : 1
+} ]

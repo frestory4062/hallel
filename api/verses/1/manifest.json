@@ -1,21 +1,27 @@
 {
-  "language": "verses",
-  "totalItems": 1294,
-  "batchSize": 500,
-  "totalFiles": 3,
-  "generatedAt": "2026-07-30T01:44:21.0298544",
-  "files": [
-    {
-      "name": "verses1_sync.json",
-      "version": 3
-    },
-    {
-      "name": "verses2.json",
-      "version": 1
-    },
-    {
-      "name": "verses3.json",
-      "version": 1
-    }
-  ]
+  "language" : "verses",
+  "totalItems" : 1289,
+  "batchSize" : 250,
+  "totalFiles" : 6,
+  "generatedAt" : "2026-08-22T19:52:39.9257724",
+  "files" : [ {
+    "name" : "1_verses1_sync.json",
+    "version" : 2
+  }, {
+    "name" : "1_verses2_sync.json",
+    "version" : 1
+  }, {
+    "name" : "1_verses3_sync.json",
+    "version" : 1
+  }, {
+    "name" : "1_verses4_sync.json",
+    "version" : 1
+  }, {
+    "name" : "1_verses5_sync.json",
+    "version" : 1
+  }, {
+    "name" : "1_verses6_sync.json",
+    "version" : 1
+  } ],
+  "bibleType" : 0
 }

@@ -1,20 +1,30 @@
 {
   "language" : "te",
-  "totalItems" : 1756,
-  "batchSize" : 500,
-  "totalFiles" : 4,
-  "generatedAt" : "2026-07-30T15:46:07.9539918",
+  "totalItems" : 1620,
+  "batchSize" : 250,
+  "totalFiles" : 7,
+  "generatedAt" : "2026-08-22T19:48:24.7278727",
   "files" : [ {
-    "name" : "te_dummy_sync.json",
-    "version" : 2
-  }, {
     "name" : "te_songs1_sync.json",
     "version" : 1
   }, {
-    "name" : "te_songs3.json",
+    "name" : "te_songs2_sync.json",
     "version" : 1
   }, {
-    "name" : "te_songs4.json",
+    "name" : "te_songs3_sync.json",
     "version" : 1
-  } ]
+  }, {
+    "name" : "te_songs4_sync.json",
+    "version" : 1
+  }, {
+    "name" : "te_songs5_sync.json",
+    "version" : 1
+  }, {
+    "name" : "te_songs6_sync.json",
+    "version" : 1
+  }, {
+    "name" : "te_songs7_sync.json",
+    "version" : 1
+  } ],
+  "bibleType" : 0
 }

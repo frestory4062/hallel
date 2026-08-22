@@ -1,0 +1,13 @@
+{
+  "bibleTypes" : [ {
+    "totalVerses" : 1289,
+    "latestFileVersion" : 2,
+    "totalFiles" : 6,
+    "bibleType" : 1
+  } ],
+  "totalItems" : 1289,
+  "generatedAt" : "2026-08-22T19:52:39.9262982",
+  "type" : "verses",
+  "batchSize" : 250,
+  "totalFiles" : 6
+}
