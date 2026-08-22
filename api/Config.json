@@ -9,7 +9,8 @@
     "songs": {
       "urls": {
         "te": ["/api/songs/te/manifest.json"],
-        "en": ["/api/songs/en/manifest.json"]
+        "en": ["/api/songs/en/manifest.json"],
+        "hn": ["/api/songs/hn/manifest.json"]
       }
     },
     "verses": {
