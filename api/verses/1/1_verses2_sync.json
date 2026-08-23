@@ -28,7 +28,7 @@
   "book" : 19,
   "chapter" : 42,
   "verse" : 3,
-  "date" : null,
+  "date" : "29-01-2026",
   "version" : 1
 }, {
   "id" : 352,
@@ -76,7 +76,7 @@
   "book" : 19,
   "chapter" : 107,
   "verse" : 29,
-  "date" : null,
+  "date" : "19-10-2026",
   "version" : 1
 }, {
   "id" : 358,
@@ -92,7 +92,7 @@
   "book" : 45,
   "chapter" : 8,
   "verse" : 28,
-  "date" : null,
+  "date" : "01-06-2026",
   "version" : 1
 }, {
   "id" : 361,
@@ -116,7 +116,7 @@
   "book" : 25,
   "chapter" : 3,
   "verse" : 22,
-  "date" : null,
+  "date" : "19-11-2026",
   "version" : 1
 }, {
   "id" : 367,
@@ -148,7 +148,7 @@
   "book" : 58,
   "chapter" : 4,
   "verse" : 16,
-  "date" : null,
+  "date" : "18-06-2026",
   "version" : 1
 }, {
   "id" : 376,
@@ -156,7 +156,7 @@
   "book" : 48,
   "chapter" : 3,
   "verse" : 13,
-  "date" : null,
+  "date" : "30-05-2026",
   "version" : 1
 }, {
   "id" : 381,
@@ -180,7 +180,7 @@
   "book" : 22,
   "chapter" : 5,
   "verse" : 10,
-  "date" : null,
+  "date" : "01-01-2026",
   "version" : 1
 }, {
   "id" : 387,
@@ -196,7 +196,7 @@
   "book" : 5,
   "chapter" : 30,
   "verse" : 19,
-  "date" : null,
+  "date" : "01-07-2026",
   "version" : 1
 }, {
   "id" : 392,
@@ -212,7 +212,7 @@
   "book" : 40,
   "chapter" : 28,
   "verse" : 20,
-  "date" : null,
+  "date" : "21-06-2026",
   "version" : 1
 }, {
   "id" : 396,
@@ -260,7 +260,7 @@
   "book" : 26,
   "chapter" : 37,
   "verse" : 5,
-  "date" : null,
+  "date" : "11-09-2026",
   "version" : 1
 }, {
   "id" : 409,
@@ -316,7 +316,7 @@
   "book" : 19,
   "chapter" : 5,
   "verse" : 3,
-  "date" : null,
+  "date" : "16-08-2026",
   "version" : 1
 }, {
   "id" : 421,
@@ -332,7 +332,7 @@
   "book" : 58,
   "chapter" : 4,
   "verse" : 13,
-  "date" : null,
+  "date" : "16-11-2026",
   "version" : 1
 }, {
   "id" : 423,
@@ -340,7 +340,7 @@
   "book" : 40,
   "chapter" : 24,
   "verse" : 7,
-  "date" : null,
+  "date" : "06-12-2026",
   "version" : 1
 }, {
   "id" : 424,
@@ -348,7 +348,7 @@
   "book" : 40,
   "chapter" : 24,
   "verse" : 33,
-  "date" : null,
+  "date" : "22-12-2026",
   "version" : 1
 }, {
   "id" : 427,
@@ -356,7 +356,7 @@
   "book" : 33,
   "chapter" : 5,
   "verse" : 2,
-  "date" : null,
+  "date" : "23-06-2026",
   "version" : 1
 }, {
   "id" : 428,
@@ -364,7 +364,7 @@
   "book" : 66,
   "chapter" : 17,
   "verse" : 14,
-  "date" : null,
+  "date" : "12-07-2026",
   "version" : 1
 }, {
   "id" : 431,
@@ -436,7 +436,7 @@
   "book" : 51,
   "chapter" : 3,
   "verse" : 4,
-  "date" : null,
+  "date" : "05-07-2026",
   "version" : 1
 }, {
   "id" : 444,
@@ -452,7 +452,7 @@
   "book" : 26,
   "chapter" : 36,
   "verse" : 26,
-  "date" : null,
+  "date" : "26-03-2026",
   "version" : 1
 }, {
   "id" : 449,
@@ -484,7 +484,7 @@
   "book" : 52,
   "chapter" : 5,
   "verse" : 17,
-  "date" : null,
+  "date" : "02-06-2026",
   "version" : 1
 }, {
   "id" : 455,
@@ -548,7 +548,7 @@
   "book" : 2,
   "chapter" : 14,
   "verse" : 14,
-  "date" : null,
+  "date" : "18-04-2026",
   "version" : 1
 }, {
   "id" : 475,
@@ -556,7 +556,7 @@
   "book" : 40,
   "chapter" : 28,
   "verse" : 2,
-  "date" : null,
+  "date" : "05-10-2026",
   "version" : 1
 }, {
   "id" : 478,
@@ -572,7 +572,7 @@
   "book" : 19,
   "chapter" : 108,
   "verse" : 4,
-  "date" : null,
+  "date" : "18-08-2026",
   "version" : 1
 }, {
   "id" : 483,
@@ -620,7 +620,7 @@
   "book" : 23,
   "chapter" : 53,
   "verse" : 4,
-  "date" : null,
+  "date" : "05-12-2026",
   "version" : 1
 }, {
   "id" : 490,
@@ -636,7 +636,7 @@
   "book" : 42,
   "chapter" : 10,
   "verse" : 27,
-  "date" : null,
+  "date" : "23-01-2026",
   "version" : 1
 }, {
   "id" : 492,
@@ -692,7 +692,7 @@
   "book" : 19,
   "chapter" : 139,
   "verse" : 1,
-  "date" : null,
+  "date" : "11-10-2026",
   "version" : 1
 }, {
   "id" : 509,
@@ -700,7 +700,7 @@
   "book" : 62,
   "chapter" : 4,
   "verse" : 8,
-  "date" : null,
+  "date" : "23-11-2026",
   "version" : 1
 }, {
   "id" : 511,
@@ -732,7 +732,7 @@
   "book" : 19,
   "chapter" : 142,
   "verse" : 1,
-  "date" : null,
+  "date" : "15-05-2026",
   "version" : 1
 }, {
   "id" : 518,
@@ -756,7 +756,7 @@
   "book" : 45,
   "chapter" : 8,
   "verse" : 35,
-  "date" : null,
+  "date" : "03-06-2026",
   "version" : 1
 }, {
   "id" : 524,
@@ -804,7 +804,7 @@
   "book" : 40,
   "chapter" : 21,
   "verse" : 19,
-  "date" : null,
+  "date" : "17-11-2026",
   "version" : 1
 }, {
   "id" : 535,
@@ -820,7 +820,7 @@
   "book" : 58,
   "chapter" : 12,
   "verse" : 2,
-  "date" : null,
+  "date" : "03-09-2026",
   "version" : 1
 }, {
   "id" : 537,
@@ -828,7 +828,7 @@
   "book" : 23,
   "chapter" : 53,
   "verse" : 6,
-  "date" : null,
+  "date" : "14-07-2026",
   "version" : 1
 }, {
   "id" : 538,
@@ -836,7 +836,7 @@
   "book" : 62,
   "chapter" : 4,
   "verse" : 9,
-  "date" : null,
+  "date" : "19-01-2026",
   "version" : 1
 }, {
   "id" : 539,
@@ -860,7 +860,7 @@
   "book" : 1,
   "chapter" : 2,
   "verse" : 7,
-  "date" : null,
+  "date" : "08-05-2026",
   "version" : 1
 }, {
   "id" : 542,
@@ -884,7 +884,7 @@
   "book" : 19,
   "chapter" : 147,
   "verse" : 9,
-  "date" : null,
+  "date" : "01-09-2026",
   "version" : 1
 }, {
   "id" : 545,
@@ -940,7 +940,7 @@
   "book" : 19,
   "chapter" : 36,
   "verse" : 5,
-  "date" : null,
+  "date" : "17-04-2026",
   "version" : 1
 }, {
   "id" : 559,
@@ -948,7 +948,7 @@
   "book" : 5,
   "chapter" : 7,
   "verse" : 9,
-  "date" : null,
+  "date" : "16-04-2026",
   "version" : 1
 }, {
   "id" : 560,
@@ -956,7 +956,7 @@
   "book" : 19,
   "chapter" : 148,
   "verse" : 1,
-  "date" : null,
+  "date" : "26-01-2026",
   "version" : 1
 }, {
   "id" : 561,
@@ -964,7 +964,7 @@
   "book" : 19,
   "chapter" : 145,
   "verse" : 2,
-  "date" : null,
+  "date" : "13-09-2026",
   "version" : 1
 }, {
   "id" : 562,
@@ -1124,7 +1124,7 @@
   "book" : 19,
   "chapter" : 143,
   "verse" : 4,
-  "date" : null,
+  "date" : "02-03-2026",
   "version" : 1
 }, {
   "id" : 600,
@@ -1156,7 +1156,7 @@
   "book" : 46,
   "chapter" : 15,
   "verse" : 53,
-  "date" : null,
+  "date" : "21-09-2026",
   "version" : 1
 }, {
   "id" : 613,
@@ -1212,7 +1212,7 @@
   "book" : 45,
   "chapter" : 12,
   "verse" : 2,
-  "date" : null,
+  "date" : "02-12-2026",
   "version" : 1
 }, {
   "id" : 628,
@@ -1236,7 +1236,7 @@
   "book" : 62,
   "chapter" : 4,
   "verse" : 19,
-  "date" : null,
+  "date" : "10-06-2026",
   "version" : 1
 }, {
   "id" : 639,
@@ -1308,7 +1308,7 @@
   "book" : 22,
   "chapter" : 1,
   "verse" : 14,
-  "date" : null,
+  "date" : "23-07-2026",
   "version" : 1
 }, {
   "id" : 664,
@@ -1324,7 +1324,7 @@
   "book" : 24,
   "chapter" : 33,
   "verse" : 3,
-  "date" : null,
+  "date" : "01-03-2026",
   "version" : 1
 }, {
   "id" : 666,
@@ -1332,7 +1332,7 @@
   "book" : 59,
   "chapter" : 4,
   "verse" : 8,
-  "date" : null,
+  "date" : "21-12-2026",
   "version" : 1
 }, {
   "id" : 668,
@@ -1364,7 +1364,7 @@
   "book" : 40,
   "chapter" : 19,
   "verse" : 6,
-  "date" : null,
+  "date" : "20-10-2026",
   "version" : 1
 }, {
   "id" : 678,
@@ -1412,7 +1412,7 @@
   "book" : 19,
   "chapter" : 2,
   "verse" : 1,
-  "date" : null,
+  "date" : "03-10-2026",
   "version" : 1
 }, {
   "id" : 695,
@@ -1428,7 +1428,7 @@
   "book" : 19,
   "chapter" : 2,
   "verse" : 3,
-  "date" : null,
+  "date" : "04-01-2026",
   "version" : 1
 }, {
   "id" : 701,
@@ -1452,7 +1452,7 @@
   "book" : 23,
   "chapter" : 54,
   "verse" : 10,
-  "date" : null,
+  "date" : "26-06-2026",
   "version" : 1
 }, {
   "id" : 711,
@@ -1468,7 +1468,7 @@
   "book" : 2,
   "chapter" : 17,
   "verse" : 6,
-  "date" : null,
+  "date" : "24-03-2026",
   "version" : 1
 }, {
   "id" : 714,
@@ -1476,7 +1476,7 @@
   "book" : 23,
   "chapter" : 40,
   "verse" : 15,
-  "date" : null,
+  "date" : "31-01-2026",
   "version" : 1
 }, {
   "id" : 715,
@@ -1500,7 +1500,7 @@
   "book" : 40,
   "chapter" : 8,
   "verse" : 26,
-  "date" : null,
+  "date" : "25-04-2026",
   "version" : 1
 }, {
   "id" : 721,
@@ -1572,7 +1572,7 @@
   "book" : 2,
   "chapter" : 14,
   "verse" : 21,
-  "date" : null,
+  "date" : "24-05-2026",
   "version" : 1
 }, {
   "id" : 734,
@@ -1596,7 +1596,7 @@
   "book" : 42,
   "chapter" : 2,
   "verse" : 11,
-  "date" : null,
+  "date" : "23-04-2026",
   "version" : 1
 }, {
   "id" : 744,
@@ -1612,7 +1612,7 @@
   "book" : 66,
   "chapter" : 5,
   "verse" : 5,
-  "date" : null,
+  "date" : "18-11-2026",
   "version" : 1
 }, {
   "id" : 752,
@@ -1620,7 +1620,7 @@
   "book" : 62,
   "chapter" : 1,
   "verse" : 9,
-  "date" : null,
+  "date" : "31-10-2026",
   "version" : 1
 }, {
   "id" : 753,
@@ -1652,7 +1652,7 @@
   "book" : 40,
   "chapter" : 19,
   "verse" : 14,
-  "date" : null,
+  "date" : "29-06-2026",
   "version" : 1
 }, {
   "id" : 762,
@@ -1668,7 +1668,7 @@
   "book" : 60,
   "chapter" : 5,
   "verse" : 10,
-  "date" : null,
+  "date" : "17-02-2026",
   "version" : 1
 }, {
   "id" : 773,
@@ -1676,7 +1676,7 @@
   "book" : 48,
   "chapter" : 6,
   "verse" : 14,
-  "date" : null,
+  "date" : "26-10-2026",
   "version" : 1
 }, {
   "id" : 775,
@@ -1692,7 +1692,7 @@
   "book" : 19,
   "chapter" : 89,
   "verse" : 14,
-  "date" : null,
+  "date" : "12-06-2026",
   "version" : 1
 }, {
   "id" : 780,
@@ -1708,7 +1708,7 @@
   "book" : 23,
   "chapter" : 54,
   "verse" : 17,
-  "date" : null,
+  "date" : "19-04-2026",
   "version" : 1
 }, {
   "id" : 786,
@@ -1716,7 +1716,7 @@
   "book" : 52,
   "chapter" : 5,
   "verse" : 18,
-  "date" : null,
+  "date" : "26-11-2026",
   "version" : 1
 }, {
   "id" : 787,
@@ -1724,7 +1724,7 @@
   "book" : 19,
   "chapter" : 77,
   "verse" : 11,
-  "date" : null,
+  "date" : "30-08-2026",
   "version" : 1
 }, {
   "id" : 791,
@@ -1732,7 +1732,7 @@
   "book" : 19,
   "chapter" : 121,
   "verse" : 1,
-  "date" : null,
+  "date" : "08-07-2026",
   "version" : 1
 }, {
   "id" : 792,
@@ -1756,7 +1756,7 @@
   "book" : 19,
   "chapter" : 22,
   "verse" : 16,
-  "date" : null,
+  "date" : "28-06-2026",
   "version" : 1
 }, {
   "id" : 800,
@@ -1764,7 +1764,7 @@
   "book" : 2,
   "chapter" : 15,
   "verse" : 26,
-  "date" : null,
+  "date" : "07-02-2026",
   "version" : 1
 }, {
   "id" : 803,
@@ -1796,7 +1796,7 @@
   "book" : 19,
   "chapter" : 40,
   "verse" : 3,
-  "date" : null,
+  "date" : "03-08-2026",
   "version" : 1
 }, {
   "id" : 812,
@@ -1812,7 +1812,7 @@
   "book" : 42,
   "chapter" : 15,
   "verse" : 19,
-  "date" : null,
+  "date" : "22-06-2026",
   "version" : 1
 }, {
   "id" : 819,
@@ -1836,7 +1836,7 @@
   "book" : 60,
   "chapter" : 5,
   "verse" : 8,
-  "date" : null,
+  "date" : "10-10-2026",
   "version" : 1
 }, {
   "id" : 826,
@@ -1844,7 +1844,7 @@
   "book" : 58,
   "chapter" : 3,
   "verse" : 12,
-  "date" : null,
+  "date" : "08-06-2026",
   "version" : 1
 }, {
   "id" : 828,
@@ -1884,7 +1884,7 @@
   "book" : 19,
   "chapter" : 16,
   "verse" : 5,
-  "date" : null,
+  "date" : "18-07-2026",
   "version" : 1
 }, {
   "id" : 851,
@@ -1908,7 +1908,7 @@
   "book" : 19,
   "chapter" : 6,
   "verse" : 7,
-  "date" : null,
+  "date" : "02-07-2026",
   "version" : 1
 }, {
   "id" : 855,
@@ -1932,7 +1932,7 @@
   "book" : 60,
   "chapter" : 2,
   "verse" : 2,
-  "date" : null,
+  "date" : "21-02-2026",
   "version" : 1
 }, {
   "id" : 859,
@@ -1940,7 +1940,7 @@
   "book" : 5,
   "chapter" : 31,
   "verse" : 6,
-  "date" : null,
+  "date" : "09-05-2026",
   "version" : 1
 }, {
   "id" : 860,
@@ -1964,7 +1964,7 @@
   "book" : 19,
   "chapter" : 121,
   "verse" : 8,
-  "date" : null,
+  "date" : "14-11-2026",
   "version" : 1
 }, {
   "id" : 866,
@@ -1972,7 +1972,7 @@
   "book" : 38,
   "chapter" : 2,
   "verse" : 8,
-  "date" : null,
+  "date" : "05-03-2026",
   "version" : 1
 }, {
   "id" : 871,
@@ -1980,7 +1980,7 @@
   "book" : 42,
   "chapter" : 11,
   "verse" : 1,
-  "date" : null,
+  "date" : "02-02-2026",
   "version" : 1
 }, {
   "id" : 873,

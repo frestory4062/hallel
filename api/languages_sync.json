@@ -7,7 +7,7 @@
       "active": 1
     },
     { "code": "te", "description": "తెలుగు", "enName": "Telugu", "active": 1 },
-    { "code": "hi", "description": "हिन्दी", "enName": "Hindi", "active": 1 },
+    { "code": "hn", "description": "हिन्दी", "enName": "Hindi", "active": 1 },
     { "code": "ta", "description": "தமிழ்", "enName": "Tamil", "active": 0 },
     { "code": "kn", "description": "ಕನ್ನಡ", "enName": "Kannada", "active": 0 },
     {
