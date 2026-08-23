@@ -2,11 +2,11 @@
   "translations": [
     {
       "code": "KJV",
-      "name": "King James Version",
+      "name": "The Holy Bible",
       "language": "English",
       "languageCode": "en",
       "description": "The classic 1611 English translation, widely used in Protestant churches.",
-      "downloadUrl": "/api/bibles/ENGLISH_HOLY_BIBLE_KJV.json",
+      "downloadUrl": "/api/bibles/ENG_KJV_NEW.json",
       "fileSize": "4.2",
       "totalVerses": 31102,
       "version": "1769",
@@ -25,6 +25,58 @@
       "version": "2017",
       "langDefault": "1",
       "bibleType": 1
+    },
+    {
+      "code": "HINDHI_BSI",
+      "name": "पवित्र बाइबिल",
+      "language": "हिन्दी",
+      "language_code": "hn",
+      "description": "Scraped from local HTML files",
+      "download_url": "/api/bibles/HINDHI_BSI.json",
+      "file_size_mb": null,
+      "total_verses": null,
+      "is_downloaded": 0,
+      "version": 1,
+      "lang_default": 1
+    },
+    {
+      "code": "KANNADA-BSI",
+      "name": "ಪವಿತ್ರ ಬೈಬಲ್",
+      "language": "ಕನ್ನಡ",
+      "language_code": "kn",
+      "description": "Scraped from local HTML files",
+      "download_url": "/api/bibles/KANNADA-BSI.json",
+      "file_size_mb": null,
+      "total_verses": null,
+      "is_downloaded": 0,
+      "version": 1,
+      "lang_default": 1
+    },
+    {
+      "code": "MALAYALAM-BSI",
+      "name": "സത്യവേദപുസ്തകം",
+      "language": "മലയാളം",
+      "language_code": "ml",
+      "description": "Scraped from local HTML files",
+      "download_url": "/api/bibles/MALAYALAM-BSI.json",
+      "file_size_mb": null,
+      "total_verses": null,
+      "is_downloaded": 0,
+      "version": 1,
+      "lang_default": 1
+    },
+    {
+      "code": "TAMIL-BSI",
+      "name": "வேதாகமம்",
+      "language": "தமிழ்",
+      "language_code": "ta",
+      "description": "Scraped from local HTML files",
+      "download_url": "/api/bibles/TAMIL-BSI.json",
+      "file_size_mb": null,
+      "total_verses": null,
+      "is_downloaded": 0,
+      "version": 1,
+      "lang_default": 1
     }
   ]
 }
